@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/CarApp/static/css/main.a5abcc43.chunk.css",
+    "main.js": "/CarApp/static/js/main.0daa19c0.chunk.js",
+    "main.js.map": "/CarApp/static/js/main.0daa19c0.chunk.js.map",
+    "runtime-main.js": "/CarApp/static/js/runtime-main.a3db4de8.js",
+    "runtime-main.js.map": "/CarApp/static/js/runtime-main.a3db4de8.js.map",
+    "static/js/2.15b3d2e9.chunk.js": "/CarApp/static/js/2.15b3d2e9.chunk.js",
+    "static/js/2.15b3d2e9.chunk.js.map": "/CarApp/static/js/2.15b3d2e9.chunk.js.map",
+    "index.html": "/CarApp/index.html",
+    "precache-manifest.0acc0973a73e541a10305aa08ec75228.js": "/CarApp/precache-manifest.0acc0973a73e541a10305aa08ec75228.js",
+    "service-worker.js": "/CarApp/service-worker.js",
+    "static/css/main.a5abcc43.chunk.css.map": "/CarApp/static/css/main.a5abcc43.chunk.css.map",
+    "static/js/2.15b3d2e9.chunk.js.LICENSE.txt": "/CarApp/static/js/2.15b3d2e9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/CarApp/static/media/hero.d0a6e242.jpeg",
+    "static/media/dodge-1.jpeg": "/CarApp/static/media/dodge-1.ad46b21e.jpeg",
+    "static/media/dodge-2.jpeg": "/CarApp/static/media/dodge-2.d713f628.jpeg",
+    "static/media/dodge-3.jpeg": "/CarApp/static/media/dodge-3.146b84a1.jpeg",
+    "static/media/dodge-4.jpeg": "/CarApp/static/media/dodge-4.0e071094.jpeg",
+    "static/media/ford-1.jpeg": "/CarApp/static/media/ford-1.a2cf7a0e.jpeg",
+    "static/media/ford-2.jpeg": "/CarApp/static/media/ford-2.d5e4ab93.jpeg",
+    "static/media/ford-3.jpeg": "/CarApp/static/media/ford-3.02a7dad0.jpeg",
+    "static/media/ford-4.jpeg": "/CarApp/static/media/ford-4.d158e561.jpeg",
+    "static/media/inside-1.jpeg": "/CarApp/static/media/inside-1.f97e7f57.jpeg",
+    "static/media/inside-2.jpeg": "/CarApp/static/media/inside-2.722fbea1.jpeg",
+    "static/media/inside-3.jpeg": "/CarApp/static/media/inside-3.588b9747.jpeg",
+    "static/media/loading-arrow.gif": "/CarApp/static/media/loading-arrow.e9ea7394.gif",
+    "static/media/nissan-1.jpeg": "/CarApp/static/media/nissan-1.da5db43c.jpeg",
+    "static/media/nissan-2.jpeg": "/CarApp/static/media/nissan-2.722e8bc3.jpeg",
+    "static/media/nissan-3.jpeg": "/CarApp/static/media/nissan-3.086ebf8d.jpeg",
+    "static/media/nissan-4.jpeg": "/CarApp/static/media/nissan-4.3b2539c7.jpeg",
+    "static/media/room-1.jpeg": "/CarApp/static/media/room-1.e928a5c4.jpeg",
+    "static/media/tesla-1.jpg": "/CarApp/static/media/tesla-1.25837daa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3db4de8.js",
+    "static/js/2.15b3d2e9.chunk.js",
+    "static/css/main.a5abcc43.chunk.css",
+    "static/js/main.0daa19c0.chunk.js"
+  ]
+}
